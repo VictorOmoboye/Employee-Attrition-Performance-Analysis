@@ -30,5 +30,5 @@
 - **CAST:** Converts a value from one data type to another.
 
 ## MODELLING
-To understand the structure of the database, I visualise the Entity-Relationship Diagram (ERD) that maps out the tables and their connections. This diagram clarifies how the tables, *employee performance* and *employee test*, are organized and interact with each other. Using the ERD as a guide, I can see how data flows between these tables, making it easier to analyze employee performance and identify factors influencing attrition and training needs. This clear structure is essential for accurate and effective analysis throughout the project.
+To understand the structure of the database, I visualise the Entity-Relationship Diagram (ERD) that maps out the tables and their connections. This diagram clarifies how the tables, **employee performance** and **employee test**, are organized and interact with each other. Using the ERD as a guide, I can see how data flows between these tables, making it easier to analyze employee performance and identify factors influencing attrition and training needs. This clear structure is essential for accurate and effective analysis throughout the project.
 ![image](https://github.com/user-attachments/assets/80957a68-7ff4-4858-a490-d69920468129)
