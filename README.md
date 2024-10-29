@@ -42,6 +42,12 @@ This query provides insights into the organization's workforce by displaying the
 ![image](https://github.com/user-attachments/assets/ef30f5e8-eaa7-41cc-a6d4-faeb81484c70)
 
 
+The first query illustrates the gender distribution of employees, indicating that males comprise the majority with a count of 1,069, while females account for 401. Additionally, the second query categorizes employee ages into five distinct groups, revealing that the age group of 30-39 has the highest representation with 749 employees, whereas only 7 employees are aged 60 and above. This analysis provides valuable insights into the demographic composition of the workforce.
+![image](https://github.com/user-attachments/assets/1ff335d2-4e47-43d9-aef1-4decb4b97773)
+
+
+This diagnostic analysis focuses on employee performance regarding training scores. The first query identifies the highest average training score, which is achieved by only two employees, both scoring 97. The second query examines the average training scores across departments, revealing that the R&D and Analytics departments lead with scores of 84.83 and 84.82, respectively. In contrast, the Sales and Marketing department has the lowest average score at 49.84. These insights are crucial for identifying areas for improvement in training and development initiatives.
+![image](https://github.com/user-attachments/assets/cde9360a-906e-4386-bf01-9462a611d118)
 
 
 
