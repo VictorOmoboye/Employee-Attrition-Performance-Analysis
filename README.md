@@ -16,10 +16,11 @@
 
 ## SKILL & CONCEPT DEMOSTRATED
 - **Business Understanding:** Understand the company's objectives and expectations to align analysis with business goals.
-- **Data Exploration:** Examine and assess the relevance of available data to address business challenges.
 - **Data Extraction:** Retrieve Employee Performance and Employee Test data from the company's database for in-depth analysis.
-- **SQL Analysis:** Develop and execute SQL queries to extract essential metrics and derive actionable insights.
-- **Business Recommendations:** Offer data-driven recommendations to inform strategic decisions based on analysis results.
+- **Develop Analysis Approach:** Define a clear plan for the analysis, identifying key metrics and setting objectives aligned with the business goals.
+- **Perform Descriptive Analysis:** Use SQL queries to summarize data, identify trends, and generate an overview of employee demographics, attrition rates, and performance metrics.
+- **Perform Diagnostic Analysis:** Dive deeper into the data to identify the factors driving attrition and variations in performance, correlating demographic and job-related elements to employee turnover and productivity.
+**Generate Insights and Recommendations:** Based on findings from the analyses, provide actionable insights and recommendations to address employee attrition, enhance promotion policies, and optimize training programs.
 
 ## SQL TOOLS AND FEATURES
 - **SQL QUERIES:** Extract relevant data from the Employee Performance and Employee Test tables.
