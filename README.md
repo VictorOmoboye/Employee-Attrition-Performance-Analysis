@@ -34,8 +34,14 @@ To understand the structure of the database, I visualise the Entity-Relationship
 ![image](https://github.com/user-attachments/assets/80957a68-7ff4-4858-a490-d69920468129)
 
 ## DATA ANALYSIS
-This query provides a comprehensive view of the employee performance and employee test tables, enabling a clear visualization of key metrics and attributes essential for analyzing employee performance, attrition factors, and training effectiveness.
+This query provides a comprehensive view of the **employee performance** and **employee test tables**, enabling a clear visualization of key metrics and attributes essential for analyzing employee performance, attrition factors, and training effectiveness.
 ![image](https://github.com/user-attachments/assets/5887a408-c817-40dd-8bb5-5242a1943714)
+
+
+This query provides insights into the organization's workforce by displaying the total number of employees (1,470) and identifying the maximum tenure, which stands at 31 years. It also breaks down employee counts by department, highlighting that Sales and Marketing have the highest number of employees (446), followed by Operations (291). In contrast, R&D and Legal have the fewest employees, with 29 and 30, respectively. This analysis offers a clear view of departmental distribution and tenure, valuable for understanding team structures and workforce composition.
+![image](https://github.com/user-attachments/assets/ef30f5e8-eaa7-41cc-a6d4-faeb81484c70)
+
+
 
 
 
