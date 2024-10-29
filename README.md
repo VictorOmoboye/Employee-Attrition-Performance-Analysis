@@ -63,3 +63,11 @@ This query categorizes the average training scores into grades (A, B, C, D, E, F
 
 The first query reveals that the average attrition rate across the organization is 0.161. The second query identifies the regions with the highest rates of employee departures, showing that Region 2 has the highest attrition rate, with 46 departures. Following this, Region 22 reports 24 departures, while Regions 24 and 12 have no attrition at all. These insights are crucial for understanding regional turnover dynamics and informing targeted retention strategies.
 ![image](https://github.com/user-attachments/assets/5282ebb1-1267-49c1-9bb4-32fe8b7f002f)
+
+
+
+The first query identifies the departments with the highest average job satisfaction ratings, revealing that the Human Resources department has the highest rating at 2.91, followed closely by Legal at 2.87. In contrast, the Research and Development department has the lowest job satisfaction rating at 2.38. Additionally, the second query highlights the departments with the highest rates of employee departures, indicating that Sales and Marketing has the highest turnover rate, with 73 departures, followed by Operations. Meanwhile, both R&D and HR report the lowest attrition rates, with only 5 departures each. These findings provide valuable insights into employee satisfaction and retention challenges across different departments.
+![image](https://github.com/user-attachments/assets/20686105-33bf-4a14-8a0c-251635eee9fd)
+
+
+## RECOMMENDATION
