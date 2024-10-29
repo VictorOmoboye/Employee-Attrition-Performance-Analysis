@@ -56,3 +56,6 @@ This query reveals the average training scores of employees based on their educa
 
 
 
+This query categorizes the average training scores into grades (A, B, C, D, E, F) based on age groups while also revealing the average performance ratings from the previous year. The results show that 775 employees received an A grade, indicating a strong performance, whereas only 15 employees were assigned an E grade, reflecting significantly lower scores. This analysis highlights the distribution of training performance across different age groups and underscores the need for targeted support for lower-performing employees.
+![image](https://github.com/user-attachments/assets/e307820e-47e7-4987-bead-840d3837a104)
+
