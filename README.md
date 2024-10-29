@@ -13,3 +13,10 @@
 - **Enhance Promotion Policies:** Assess and improve the fairness and effectiveness of promotion processes.
 
 - **Optimize Training Programs:** Provide targeted training opportunities to improve skills, performance, and employee satisfaction.
+
+## SKILL & CONCEPT DEMOSTRATED
+- **Business Understanding:** Understand the company's objectives and expectations to align analysis with business goals.
+- **Data Exploration:** Examine and assess the relevance of available data to address business challenges.
+- **Data Extraction:** Retrieve Employee Performance and Employee Test data from the company's database for in-depth analysis.
+- **SQL Analysis:** Develop and execute SQL queries to extract essential metrics and derive actionable insights.
+- **Business Recommendations:** Offer data-driven recommendations to inform strategic decisions based on analysis results.
