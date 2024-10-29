@@ -34,4 +34,9 @@ To understand the structure of the database, I visualise the Entity-Relationship
 ![image](https://github.com/user-attachments/assets/80957a68-7ff4-4858-a490-d69920468129)
 
 ## DATA ANALYSIS
+This query provides a comprehensive view of the employee performance and employee test tables, enabling a clear visualization of key metrics and attributes essential for analyzing employee performance, attrition factors, and training effectiveness.
+![image](https://github.com/user-attachments/assets/5887a408-c817-40dd-8bb5-5242a1943714)
+
+
+
 
