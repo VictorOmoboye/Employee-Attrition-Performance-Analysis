@@ -6,10 +6,10 @@
 ## PROBLEM STATEMENT
 **Emerald Technologies** is facing challenges  related to employee attrition and performance management. There is a pressing need to better understand the factors contributing to employee turnover, to ensure that our promotion policies are fair and effective , and to optimize training programs to enhance employee performance and satisfaction.
 ## AIM OF THE PROJECT
-- Analyze employee demographics by examine demographic profiles to understand diversity and inclusion within the organization.
+- Analyze Employee Demographics: Examine demographic profiles to understand diversity and inclusion within the organization.
 
-- Identify attrition factors by uncover key demographic and job-related factors contributing to employee turnover.
+- Identify Attrition Factors: Uncover key demographic and job-related factors contributing to employee turnover.
 
-- Enhance promotion policies by assess and improve the fairness and effectiveness of promotion processes.
+- Enhance Promotion Policies: Assess and improve the fairness and effectiveness of promotion processes.
 
-- Optimize training programs by provide targeted training opportunities to improve skills, performance, and employee satisfaction.
+- Optimize Training Programs: Provide targeted training opportunities to improve skills, performance, and employee satisfaction.
