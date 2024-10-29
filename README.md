@@ -14,7 +14,7 @@
 
 - **Optimize Training Programs:** Provide targeted training opportunities to improve skills, performance, and employee satisfaction.
 
-## SKILL & CONCEPT DEMOSTRATED
+## METHODOLOGY
 - **Business Understanding:** Understand the company's objectives and expectations to align analysis with business goals.
 - **Data Extraction:** Retrieve Employee Performance and Employee Test data from the company's database for in-depth analysis.
 - **Develop Analysis Approach:** Define a clear plan for the analysis, identifying key metrics and setting objectives aligned with the business goals.
