@@ -28,3 +28,5 @@
 - **JOIN:** Combine rows from two or more tables based on a related column between them.
 - **COALESCE:** Returns the first non null value from a list of arguments.
 - **CAST:** Converts a value from one data type to another.
+
+## MODELLING
