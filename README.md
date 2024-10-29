@@ -20,3 +20,10 @@
 - **Data Extraction:** Retrieve Employee Performance and Employee Test data from the company's database for in-depth analysis.
 - **SQL Analysis:** Develop and execute SQL queries to extract essential metrics and derive actionable insights.
 - **Business Recommendations:** Offer data-driven recommendations to inform strategic decisions based on analysis results.
+
+## SQL TOOLS AND FEATURES
+- **SQL QUERIES:** Extract relevant data from the Employee Performance and Employee Test tables.
+- **CASE:** Executes conditional logic by evaluating conditions and returning a value.
+- **JOIN:** Combine rows from two or more tables based on a related column between them.
+- **COALESCE:** Returns the first non null value from a list of arguments.
+- **CAST:** Converts a value from one data type to another.
