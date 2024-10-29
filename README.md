@@ -51,4 +51,8 @@ This diagnostic analysis focuses on employee performance regarding training scor
 
 
 
+This query reveals the average training scores of employees based on their education levels, indicating that those with a Master's degree or higher have the highest average score of 65.0, followed by employees with a Bachelor's degree at 63.3. In contrast, employees with an N/A designation have the lowest average score at 57.9. The second query highlights the average performance ratings from the previous year by recruitment channel, showing that employees recruited through referrals received the highest rating of 3.82, followed by those sourced through other channels, which averaged a rating of 3.32. These findings provide valuable insights into the relationship between education, recruitment channels, and employee performance.
+![image](https://github.com/user-attachments/assets/e9404235-7494-43b8-812f-0f4b8754343e)
+
+
 
