@@ -5,3 +5,11 @@
 **Emerald Technologies**, a leading multinational mobile telecommunications company, operates across numerous African and Asian countries. As of December 2022, it recorded 1 billion subscribers, making it the 3rd largest mobile network operator globally and the largest in Africa and Asia. Despite its market dominance, Emerald Technologies faces challenges related to employee attrition and performance management. This project aims to address these challenges by leveraging SQL-based descriptive and diagnostic analytics to analyze employee data. By uncovering key demographic and job-related factors driving turnover, assessing the fairness of promotion policies, and identifying targeted training opportunities, the analysis will provide actionable insights to reduce attrition, enhance employee satisfaction, and optimize training and promotion processes—ultimately fostering a more productive and engaged workforce.
 ## PROBLEM STATEMENT
 **Emerald Technologies** is facing challenges  related to employee attrition and performance management. There is a pressing need to better understand the factors contributing to employee turnover, to ensure that our promotion policies are fair and effective , and to optimize training programs to enhance employee performance and satisfaction.
+## AIM OF THE PROJECT
+- Analyze employee demographics by examining demographic profiles to understand diversity and inclusion within the organization.
+
+- Identify attrition factors by uncovering key demographic and job-related factors contributing to employee turnover.
+
+- Enhance promotion policies by assess and improve the fairness and effectiveness of promotion processes.
+
+- Optimize training programs by providing targeted training opportunities to improve skills, performance, and employee satisfaction.
