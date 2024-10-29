@@ -30,3 +30,4 @@
 - **CAST:** Converts a value from one data type to another.
 
 ## MODELLING
+![image](https://github.com/user-attachments/assets/80957a68-7ff4-4858-a490-d69920468129)
