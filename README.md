@@ -98,4 +98,4 @@ By applying these recommendations, **Emerald Technologies** can create a more su
 
 ## THANK YOU
 For more information, you can contact me
-![image](https://github.com/user-attachments/assets/c5adc252-19dd-483b-adbd-339b1eb14fad)
+![image](https://github.com/user-attachments/assets/fdd843cb-8293-4cca-93c5-856e33770a9b)
